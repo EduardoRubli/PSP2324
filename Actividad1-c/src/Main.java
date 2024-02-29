@@ -1,3 +1,4 @@
+// Eduardo Rubli Castañeira - 2ºDAM Semi
 // Actividad1-c (Hilo con expresiones lambda).
 import java.util.Scanner;
 

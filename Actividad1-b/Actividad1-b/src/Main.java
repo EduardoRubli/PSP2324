@@ -1,3 +1,4 @@
+// Eduardo Rubli Castañeira - 2ºDAM Semi
 // Actividad 1-b (Hilo usando clase anónima).
 import java.util.Scanner;
 
